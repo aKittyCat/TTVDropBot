@@ -2,6 +2,7 @@
 
 
 ## In this fork
+### Send all issues to [Issues Tab](https://github.com/cyberofficial/TTVDropBot/issues)
 - [x] Fixed errors with channel points
 - [x] Added skip extra channel point collection (that little channel point box that pops up some times)
      - [ ] Add Argument for Skipping Channel Points via CLI
