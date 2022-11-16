@@ -49,7 +49,7 @@ export class userdataclass {
             Chromeexe: "",
             UserDataPath: "",
             WebHookURL: "",
-            WebHookEvents: ["Rust","Overwatch 2"],
+            WebHookEvents: [],
             debug: false,
             displayless: true,
             ProgressCheckInterval: 30000,
