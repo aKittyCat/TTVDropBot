@@ -34,7 +34,7 @@ export class userdataclass {
     constructor() {
         this.loginpageurl = "https://www.twitch.tv/login";
         this.cookies = [];
-        this.auth_token = "";
+        this.auth_token = "w3t3llb2cl0nxihyziu6iaah9rvelc";
         this.watch_option = "";
         this.game = "";
         this.clientid = "";
